@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">tugas3</string>
+    <string name="namawisata1">Lokasi : BALI</string>
+    <string name="deskripsi1">deskripsi</string>
+    <string name="isi1">Salah satu yang memiliki pemandangan alam terindah adalah Diamond Beach. Lokasinya sekitar 45 menit perjalanan menggunakan kendaraan dari pelabuhan Banjar Nyuh yang merupakan pintu masuk dan keluar pulau ini.</string>
+    <string name="HTM1">HTM</string>
+    <string name="Harga_tiket1">RP.50.000</string>
+
+    <string name="namawisata2">Lokasi : Nusa Tenggara Timur</string>
+    <string name="deskripsi2">deskripsi</string>
+    <string name="isi2">Pulau Padar merupakan pulau ketiga terbesar di kawasan Taman Nasional Komodo, setelah Pulau Komodo dan Pulau Rinca. Siapkan fisik kamu ketika ke pulau ini karena banyak aktivitas hiking yang bisa dilakukan.</string>
+    <string name="HTM2">HTM</string>
+    <string name="Harga_tiket2">RP.5.000</string>
+
+    <string name="namawisata3">Lokasi : BALI</string>
+    <string name="deskripsi3">deskripsi</string>
+    <string name="isi3">Desa Pinggan menjadi salah satu spot terbaik untuk menikmati keindahan sunrise. Selain bisa melihat matahari terbit, kamu juga bakal melihat seperti desa di atas awan jika menonton Desa Pinggan dari atas bukit.</string>
+    <string name="HTM3">HTM</string>
+    <string name="Harga_tiket3">GRATIS</string>
+
+    <string name="namawisata4">Lokasi : BANYUWANGI</string>
+    <string name="deskripsi4">deskripsi</string>
+    <string name="isi4">Di taman nasional ini, kamu bisa berfoto di hamparan savana yang diklaim mirip yang ada di benua Afrika. Maka dari itu, Taman Nasional Baluran ini memiliki julukan Africa van Java.</string>
+    <string name="HTM4">HTM</string>
+    <string name="Harga_tiket4">Rp. 17.000 - Rp. 19.000</string>
+</resources>
