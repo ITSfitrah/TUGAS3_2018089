@@ -1,5 +1,25 @@
 <resources>
     <string name="app_name">tugas3</string>
+    <string-array name="makanan">
+        <item>Diamond Beach</item>
+        <item>Pulau Padar</item>
+        <item>Desa Pinggan</item>
+        <item>Taman Baluran</item>
+        <item></item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 50000</item>
+        <item>Rp. 5000</item>
+        <item>Rp. FREE</item>
+        <item>Rp. 19.000</item>
+    </string-array>
+
     <string name="namawisata1">Lokasi : BALI</string>
     <string name="deskripsi1">deskripsi</string>
     <string name="isi1">Salah satu yang memiliki pemandangan alam terindah adalah Diamond Beach. Lokasinya sekitar 45 menit perjalanan menggunakan kendaraan dari pelabuhan Banjar Nyuh yang merupakan pintu masuk dan keluar pulau ini.</string>
